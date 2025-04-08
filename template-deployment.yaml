@@ -2,4 +2,5 @@ template-file-path: template.yaml
 parameters:
   DatabasePassword: password
   DatabaseName: mydb
+  DatabaseUsername: postgres
 tags: {}
